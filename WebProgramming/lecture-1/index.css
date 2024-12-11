@@ -1,0 +1,17 @@
+p {
+  color: blue;
+}
+
+#description, #abc {
+  border: yellow solid 5px;
+}
+
+.red-font {
+  color: rgb(255, 0, 0);
+  
+  color: #ff0000;
+}
+
+ul > li {
+  color:darkblue;
+}
